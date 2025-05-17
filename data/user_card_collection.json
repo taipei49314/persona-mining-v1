@@ -1,0 +1,20 @@
+{
+  "user_001": {
+    "cards": {
+      "C001": {
+        "name": "冷靜型人格 Lv.1",
+        "rarity": "R",
+        "count": 1
+      }
+    },
+    "last_draw_date": "2025-05-17",
+    "coins": 30,
+    "daily_tasks": {
+      "login": true,
+      "quiz": true,
+      "profile_view": true,
+      "bonus_unlocked": true
+    },
+    "daily_tasks_date": "2025-05-17"
+  }
+}

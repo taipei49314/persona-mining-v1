@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Env and settings
+.env
+.vscode/
+.idea/
+.DS_Store
+
+# Local app data
+logs/

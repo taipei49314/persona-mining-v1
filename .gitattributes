@@ -1,0 +1,6 @@
+# Normalize line endings
+* text=auto eol=lf
+
+# Set linguist language overrides
+*.py linguist-language=Python
+*.json linguist-language=JSON

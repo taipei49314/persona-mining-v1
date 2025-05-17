@@ -1,0 +1,30 @@
+[
+  {
+    "id": "C001",
+    "name": "冷靜型人格 Lv.1",
+    "rarity": "R",
+    "weight": 60,
+    "description": "擅長觀察與沉穩反應，進入洞察者成長路線。"
+  },
+  {
+    "id": "C002",
+    "name": "外向型人格 Lv.1",
+    "rarity": "SR",
+    "weight": 25,
+    "description": "喜歡交流與主動探索，解鎖擴展者成長線。"
+  },
+  {
+    "id": "C003",
+    "name": "邏輯型人格 Lv.1",
+    "rarity": "SSR",
+    "weight": 10,
+    "description": "理性冷靜，通往決策者進化之路。"
+  },
+  {
+    "id": "C004",
+    "name": "夢想型人格 Lv.1",
+    "rarity": "UR",
+    "weight": 5,
+    "description": "理想驅動型思考，擁有開創者潛質。"
+  }
+]
